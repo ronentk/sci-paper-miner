@@ -9,5 +9,7 @@ Generate datasets of academic research papers (including full-text) based on [Co
  - Default is set for all CS papers from arXiv between 2006-2018
  - Run `python crawl_core.py <your-api-key>`
 
+## Future
+ - [ ] Extract citation information (currently not extracted for arXiv, not sure if this is happening for other paper repositories as well)
 
 [1] Knoth, P. and Zdrahal, Z. (2012) CORE: Three Access Levels to Underpin Open Access, D-Lib Magazine, 18, 11/12, Corporation for National Research Initiatives.
