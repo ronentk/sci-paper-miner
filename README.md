@@ -1,2 +1,13 @@
 # sci-paper-miner
-Generate datasets based on core.ac.uk open research paper text mines.
+Generate datasets based on [Core](https://core.ac.uk/services)[1] research paper text mines. 
+
+## Setup
+ - Run `pip install -r requirements.txt`
+ - Obtain an api key [here](https://core.ac.uk/api-keys/register) for Core. 
+## Usage
+ - Set the target query in `crawl_core.py`. This currently can include the repository number (set to arXiv by default), range of years and topics (arXiv specific). 
+ - Default is set for all CS papers from arXiv between 2006-2018
+ - Run `python crawl_core.py <your-api-key>`
+
+
+[1] Knoth, P. and Zdrahal, Z. (2012) CORE: Three Access Levels to Underpin Open Access, D-Lib Magazine, 18, 11/12, Corporation for National Research Initiatives.
