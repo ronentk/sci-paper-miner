@@ -1,5 +1,5 @@
 # sci-paper-miner
-Generate datasets based on [Core](https://core.ac.uk/services)[1] research paper text mines. 
+Generate datasets of scientific research papers (including full-text) based on [Core](https://core.ac.uk/services)[1] research paper text mines. 
 
 ## Setup
  - Run `pip install -r requirements.txt`
