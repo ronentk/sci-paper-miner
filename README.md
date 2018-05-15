@@ -10,6 +10,6 @@ Generate datasets of academic research papers (including full-text) based on [Co
  - Run `python crawl_core.py <your-api-key>`
 
 ## Future
- - [ ] Extract citation information (currently not extracted for arXiv, contacted CORE and apparaently citation extraction is limited today due to computational constarints but will be completed over the next few months)
+ - [ ] Extract citation information (currently not extracted for arXiv, contacted CORE and apparently citation extraction is limited today due to computational constraints but will be completed over the next few months)
 
 [1] Knoth, P. and Zdrahal, Z. (2012) CORE: Three Access Levels to Underpin Open Access, D-Lib Magazine, 18, 11/12, Corporation for National Research Initiatives.
